@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">sih2018</string>
+    <string name="title_activity_login2">login2</string>
+    <string name="aswhat">REGISTER/LOGIN AS:</string>
+    <string name="govtoff">govt. official</string>
+    <string name="user">user</string>
+    <string name="employer">employer</string>
+    <string name="username">USERNAME:</string>
+    <string name="enter_username">enter username</string>
+    <string name="password">PASSWORD:</string>
+    <string name="enter_password">enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user">NEW USER?</string>
+    <string name="choose">CHOOSE A SKILL:</string>
+    <string name="chef">CHEF</string>
+    <string name="writer">WRITER</string>
+    <string name="contentwriter">CONTENT WRITER</string>
+    <string name="sales">SALES EXECUTIVE</string>
+    <string name="storem">STORE MANAGER</string>
+    <string name="dataentry">DATA ENTRY</string>
+    <string name="delivery">DELIVERY BOY</string>
+    <string name="driver">DRIVER</string>
+    <string name="housek">HOUSE KEEPING</string>
+    <string name="offboy">OFFICE BOY</string>
+    <string name="mobile">MOBILE TECHNICIAN</string>
+    <string name="service">SERVICE TECHNICIAN</string>
+    <string name="hvac">HVAC TECHNICIAN</string>
+    <string name="show">Show</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SIH</string>
+    <string name="username">उपयोगकर्ता नाम:</string>
+    <string name="enter_username">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="password">पैस्वर्ड:</string>
+    <string name="enter_password">पैस्वर्ड दर्ज करे</string>
+    <string name="login">लॉग इन </string>
+    <string name="new_user">नया उपयोगकर्ता?</string>
+    <string name="aswhat">रजिस्टर / लॉग :</string>
+    <string name="govtoff">आधिकारिक</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="employer">
+नियोक्ता</string>
+      <string name="choose">चुनें</string>
+    <string name="chef">महाराज</string>
+    <string name="writer">लेखक</string>
+    <string name="contentwriter">
+कंटेंट लेखक</string>
+
+      <string name="sales">बिक्री कार्यकारी</string>
+      <string name="storem">स्टोर प्रबंधक</string>
+    <string name="dataentry">डाटा प्रविष्टि</string>
+    <string name="delivery">वितरण लड़का</string>
+    <string name="driver">चालक</string>
+    <string name="housek">
+गृह व्यवस्था</string>
+
+    <string name="offboy">पीअन</string>
+    <string name="mobile">
+मोबाइल टेकनीशियन</string>
+    <string name="service">तकनीकी सेवक</string>
+    <string name="hvac">टेकनीशियन</string>
+    <string name="show">दिखाएं</string>
+
+
+</resources>
